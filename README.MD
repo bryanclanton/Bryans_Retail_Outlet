@@ -8,10 +8,10 @@ with 99 departments.
 
 * **PostgreSQL** for running queries for data analysis
 
-[Click Here](https://public.tableau.com/profile/clanton#!/vizhome/OmegaOpticalQualityDashboard/Dashboard1) to view some sample queries
+[Click Here](https://github.com/bryanclanton/Bryans_Retail_Outlet/blob/master/queries.pdf) to view some sample queries
 
 ## Project Screenshots
 
 ### PostgreSQL
-![Alt text](readmeimg/tableau.PNG "Sales By SQFT Query")
+![Alt text](readmeimg/avg_sales_by_sqft.PNG "Sales By SQFT Query")
 
